@@ -1,0 +1,35 @@
+{
+  "log": "midi_rename.log",
+  "popup": false,
+  "popup_verbose": false,
+  "rules": [
+    {
+      "match_name": "Minilab3 - Minilab3 MIDI",
+      "replace_name": "Arturia Minilab 3",
+      "replace_man_id": 7285,
+      "replace_prod_id": 1027,
+      "replace_driver_version": 0
+    },
+    {
+      "match_name": "Minilab3 - Minilab3 MCU/HUI",
+      "replace_name": "Arturia Minilab 3 MCU/HUI",
+      "replace_man_id": 7285,
+      "replace_prod_id": 1027,
+      "replace_driver_version": 0
+    },
+    {
+      "match_name": "Minilab3 - Minilab3 ALV",
+      "replace_name": "Arturia Minilab 3 ALV",
+      "replace_man_id": 7285,
+      "replace_prod_id": 1027,
+      "replace_driver_version": 0
+    },
+    {
+      "match_name": "Minilab3 - Minilab3 DIN THRU",
+      "replace_name": "Arturia Minilab 3 DIN THRU",
+      "replace_man_id": 7285,
+      "replace_prod_id": 1027,
+      "replace_driver_version": 0
+    }
+  ]
+}
